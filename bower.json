@@ -1,0 +1,19 @@
+{
+	"name": "construct.component",
+	"version": "0.0.0",
+	"description": "Construct: Component",
+	"license": "MIT",
+	"main": "index.html",
+	"keywords": [
+		"construct", "three", "webgl", "web-components"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"construct": "*",
+		"webcomponentsjs": "^0.5.1"
+	}
+}
