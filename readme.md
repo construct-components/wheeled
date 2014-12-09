@@ -18,7 +18,7 @@ $ git pull git://github.com/constructjs/component.git master
 
 Initiated by [Makis Tracend](http://github.com/tracend)
 
-[Full list of contributors](https://github.com/construct-components/component/graphs/contributors)
+[Full list of contributors](https://github.com/constructjs/component/graphs/contributors)
 
 Distributed through [Makesites.org](http://makesites.org/)
 
