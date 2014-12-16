@@ -7,7 +7,7 @@
 	el.createdCallback = function() {
 
 		// initialize
-		this.view = new APP.Group.Component();
+		this.view = new APP.Objects.Wheeled();
 		this.$3d = false;
 
 	};
@@ -16,7 +16,7 @@
 	el.attachedCallback = function() {
 
 		// render instead of initialize?
-		//view = new APP.Group.Component();
+		//view = new APP.Objects.Wheeled();
 
 	};
 
@@ -28,7 +28,7 @@
 	// Fires when an attribute was added, removed, or updated
 	el.attributeChangedCallback = function(attr, oldVal, newVal) {};
 
-	document.registerElement('construct-component', {
+	document.registerElement('construct-wheeled', {
 		prototype: el
 	});
 }());

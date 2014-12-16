@@ -8,6 +8,6 @@
 
 	});
 
-	APP.Group = APP.Group || {};
-	APP.Group.Component = View;
+	APP.Objects = APP.Objects || {};
+	APP.Objects.Wheeled = View;
 })( this.APP );

@@ -1,11 +1,11 @@
 {
-	"name": "construct.component",
+	"name": "construct.wheeled",
 	"version": "0.0.0",
-	"description": "Construct: Component",
+	"description": "Construct: Wheeled",
 	"license": "MIT",
 	"main": "index.html",
 	"keywords": [
-		"construct", "three", "webgl", "web-components"
+		"wheeled", "construct", "three", "webgl", "web-components"
 	],
 	"ignore": [
 		"**/.*",
@@ -13,7 +13,7 @@
 		"bower_components"
 	],
 	"dependencies": {
-		"construct": "*",
+		"construct.grounded": "*",
 		"webcomponentsjs": "^0.5.1"
 	}
 }
