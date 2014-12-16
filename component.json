@@ -1,6 +1,6 @@
 {
 	"name": "construct.wheeled",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Construct: Wheeled",
 	"license": "MIT",
 	"main": "index.html",
